@@ -1,12 +1,15 @@
-## Hi there 👋
 
-<!--
+# OhioIoT ESP WiFi Examples
 
-**Here are some ideas to get you started:**
+These code bases were created and explained the [ESP32 WiFi Setup](https://www.youtube.com/playlist?list=PLAilpW21Y-LAHbQl6HvIWl0VDeJ9daaME) playlist on the OhioIoT YouTube channel.  The following videos are matched with the following code bases:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [ESP32 WiFi Examples](https://github.com/OhioIoT-ESP32-WiFi-Examples)
+- [ESP32 Provisioning Examples](https://github.com/OhioIoT-ESP32-Provisioning-Examples)
+- [MQTT Examples](https://github.com/OhioIoT-MQTT-Examples)
+- [MCP Servers and MCP Connectors](https://github.com/OhioIoT-MCP)
+
+
+Also, feel free to stop by the website or YouTube Channel:
+
+- [OhioIoT Homepage](https://ohioiot.com)
+- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot)
