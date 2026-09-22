@@ -1,5 +1,5 @@
 
-# OhioIoT ESP WiFi Examples
+# OhioIoT ESP WiFi Examples<a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
 
 These code bases were created and explained the [ESP32 WiFi Setup](https://www.youtube.com/playlist?list=PLAilpW21Y-LAHbQl6HvIWl0VDeJ9daaME) playlist on the OhioIoT YouTube channel.  The following videos are matched with the following code bases:
 
