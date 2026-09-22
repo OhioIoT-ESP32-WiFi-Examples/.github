@@ -13,7 +13,6 @@ These code bases were created and explained the [ESP32 WiFi Setup](https://www.y
 | 5 | Your Next-Level Library | [Video](https://youtu.be/He9YtNsHtYU) | [Code Examples](https://github.com/OhioIoT-ESP32-WiFi-Examples/Final-Checklist) |
 
 <br />
-<br />
 Learn more about OhioIoT:
 
 - [OhioIoT Homepage](https://ohioiot.com) - Our core product: An external MQTT broker, combined with tools that help you build your own IoT system
