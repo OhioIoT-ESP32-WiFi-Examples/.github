@@ -11,7 +11,8 @@ These code bases were created and explained the [ESP32 WiFi Setup](https://www.y
 | 4 | Get Credentials Out | [Video](https://youtu.be/nk0qH0ebe_I) | [Code Examples](https://github.com/OhioIoT-ESP32-WiFi-Examples/Dont-Upload-Your-Credentials) |
 | 5 | Your Next-Level Library | [Video](https://youtu.be/He9YtNsHtYU) | [Code Examples](https://github.com/OhioIoT-ESP32-WiFi-Examples/Final-Checklist) |
 
-Also, feel free to stop by the website or YouTube Channel:
+Also, try any of these additional links:
 
-- [OhioIoT Homepage](https://ohioiot.com)
-- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot)
+- [OhioIoT Homepage](https://ohioiot.com) - Check out this paid platform that provides an external MQTT broker, combined with tools that help you build your own IoT system.
+- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot) - Agenda free tutorials showing you how to get started in IoT
+- [OhioIoT GitHub Indexl](https://github.com/OhioIoT-Examples) - The central index of code examples available on GitHub
